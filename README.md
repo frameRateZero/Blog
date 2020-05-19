@@ -24,7 +24,7 @@ This static generator, meets the letter, but not the spirit of "Hello World". "H
 - Hello...World...
 ```
 
-For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 1965 is the obligatory anouncement. Gerge Nees was a pioneer of computer art, 1965, the first exhibition of “ Generative Art” 
+For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 1965 is the obligatory anouncement. Gerge Nees was a pioneer of computer art, part of a 1965 exhibition plainly called “Generative Art” <sup>[1](#myfootnote1)</sup>
 
 
 ##insert Schotter here.
@@ -69,3 +69,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Footnotes
+<a name="myfootnote1">1</a>: The Pioneer of Generative Art: Georg Nees. Frieder Nak. Leonardo 2018 51:3, 277-279.
+https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01325?mobileUi=0&
+
