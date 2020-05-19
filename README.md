@@ -1,10 +1,10 @@
 ## Reproducing Schotter as an Obligatory 'Hello World!'
 
-Computer programmers, coders, have ritualized printing "Hello World" as a first simple program. Printing a line is as basic as it gets. For beginners like me, it is a rite of passage. It feels a little like a coming of age ceremony transitioning from Graphic User Interfaces to text-driven commands. 
+Computer programmers, coders, have ritualized printing "Hello, World!" as a first simple program.<sup>[1](#myfootnote1)</sup> Printing a some words is as basic as it gets. But "Hello, World!" is more that a test program.
 
+For beginners like me, it is a rite of passage, and anouncement. It feels a little like a coming of age ceremony transitioning from Graphical User Interfaces to text-driven commands. So, how do generative artists initiate this?
 
-
-For generative artists, the text, the code, produces images and graphics. An algorithm, a set of rules procedure, tells the computer to draw lines or color pixels. So, the most basic "Hellow World" program for a generative artist must draw something and use an algorithm. Not any loop with a random variable will do. An poor example is a static noise generator:
+First, some background. For generative artists, the text, the code, produces images and graphics. An algorithm, a set of rules procedure, tells the computer to draw lines or color pixels. So, the most basic "Hello World" program for a generative artist must draw something and use an algorithm. Not any loop with a random variable will do. An poor example is a static noise generator:
 
 
 
@@ -24,7 +24,7 @@ This static generator, meets the letter, but not the spirit of "Hello World". "H
 - Hello...World...
 ```
 
-For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 1965 is the obligatory anouncement. Gerge Nees was a pioneer of computer art, part of a 1965 exhibition plainly called “Generative Art” <sup>[1](#myfootnote1)</sup>
+For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 1965 is the obligatory anouncement. Gerge Nees was a pioneer of computer art, part of a 1965 exhibition plainly called “Generative Art” <sup>[2](#myfootnote2)</sup>
 
 
 ##insert Schotter here.
@@ -71,6 +71,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 # Footnotes
-<a name="myfootnote1">1</a>: The Pioneer of Generative Art: Georg Nees. Frieder Nak. Leonardo 2018 51:3, 277-279.
-https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01325?mobileUi=0&
+<a name="myfootnote1">1</a>: [Link](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
+
+<a name="myfootnote2">2</a>: The Pioneer of Generative Art: Georg Nees. Frieder Nak. Leonardo 2018 51:3, 277-279.
+[Link](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01325?mobileUi=0&)
 
