@@ -26,7 +26,7 @@ This static generator, meets the letter, but not the spirit of "Hello World". "H
 ## Why Schotter
 For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 196X is the obligatory anouncement. Gerge Nees was a pioneer of computer art, part of a 1965 exhibition plainly called “Generative Art” <sup>[2](#myfootnote2)</sup> Nees' work was paired with Max Bense's paper "The projects of generative aesthetics" in the avantagarde booklet *rot.* in issue no 19. <sup>[3](#myfootnote3)</sup>. Here is a translation from German using google translate.<sup>[4](#myfootnote4)</sup>, <sup>[5](#myfootnote5)</sup>
 
-![Image](https://github.com/frameRateZero/Blog/blob/media/rot19kCover.jpg?raw=true){:height="50%" width="50%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/rot19Cover.jpg?raw=true){:height="50%" width="50%"}
 ![Image](https://github.com/frameRateZero/Blog/blob/media/rot19kBild2.jpg?raw=true){:height="50%" width="50%"}
 
 ## Making Schotter
