@@ -28,6 +28,7 @@ For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work 
 
 
 ![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg?raw=true){:height="50%" width="50%"}
+(Lithograph in black ink from a computer-generated graphic, 'Schotter', 1968-1970, by Georg Nees.)<sup>[3](#myfootnote3)</sup>
 
 
 There are many, many reproductions,and many derivatives because it is visually compelling, understandable, simple. The algorithm draws 12 columns and 22 rows of rectangles. Progressively by row, the rectangle's rotation and "jitter" or offset increase. 
@@ -73,6 +74,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # Footnotes
 <a name="myfootnote1">1</a>: "Hello, World!", Wikipedia, accessed 5/19/2020. [Link](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
-<a name="myfootnote2">2</a>: The Pioneer of Generative Art: Georg Nees. Frieder Nak. Leonardo 2018 51:3, 277-279.
+<a name="myfootnote2">2</a>: The Pioneer of Generative Art: Georg Nees. Frieder Nake. Leonardo 2018 51:3, 277-279.
 [Link](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01325?mobileUi=0&)
+
+<a name="myfootnote3">3</a>:Lithograph in black ink from a computer-generated graphic, 'Schotter', 1968-1970, by Georg Nees from V&A Collections.[LINK](https://collections.vam.ac.uk/item/O221321/schotter-print-nees-georg/)
 
