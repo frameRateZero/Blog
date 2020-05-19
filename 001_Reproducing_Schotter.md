@@ -29,8 +29,8 @@ For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work 
 The manifesto holds up well, was prescient, and provides important context for todays computer artists. The following translated quotes, in particular, are worth a think. 
 "quote here"
 
-![Image](https://github.com/frameRateZero/Blog/blob/media/rot19Cover.jpg?raw=true){:height="50%" width="50%"}
-![Image](https://github.com/frameRateZero/Blog/blob/media/rot19kBild2.jpg?raw=true){:height="50%" width="50%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/rot19Cover.jpg?raw=true){:height="30%" width="30%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/rot19kBild2.jpg?raw=true){:height="30%" width="30%"}
 
 ## Making Schotter
 
