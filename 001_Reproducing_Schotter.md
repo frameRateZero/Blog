@@ -27,7 +27,7 @@ This static generator, meets the letter, but not the spirit of "Hello World". "H
 For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 1965 is the obligatory anouncement. Gerge Nees was a pioneer of computer art, part of a 1965 exhibition plainly called “Generative Art” <sup>[2](#myfootnote2)</sup>
 
 
-![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg){:height="50%" width="50%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg?raw=true){:height="50%" width="50%"}
 
 
 There are many, many reproductions,and many derivatives because it is visually compelling, understandable, simple. The algorithm draws 12 columns and 22 rows of rectangles. Progressively by row, the rectangle's rotation and "jitter" or offset increase. 
