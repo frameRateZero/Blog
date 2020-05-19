@@ -23,12 +23,16 @@ This static generator, meets the letter, but not the spirit of "Hello World". "H
 - Hello, World?
 - Hello...World...
 ```
+##Why Schotter
+For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 196X is the obligatory anouncement. Gerge Nees was a pioneer of computer art, part of a 1965 exhibition plainly called “Generative Art” <sup>[2](#myfootnote2)</sup> Nees' work was paired with Max Bense's paper "The projects of generative aesthetics" in the avantagarde booklet *rot.* in issue no 19. <sup>[3](#myfootnote3)</sup>. Here is a translation from German using google translate.<sup>[4](#myfootnote4)</sup><sup>[5](#myfootnote5)</sup>
 
-For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 1965 is the obligatory anouncement. Gerge Nees was a pioneer of computer art, part of a 1965 exhibition plainly called “Generative Art” <sup>[2](#myfootnote2)</sup>
+![Image](https://github.com/frameRateZero/Blog/blob/media/rot19Cover.jpg?raw=true){:height="50%" width="50%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/rot19Nees.jpg?raw=true){:height="50%" width="50%"}
 
+##Making Schotter
 
 ![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg?raw=true){:height="50%" width="50%"}
-(Lithograph in black ink from a computer-generated graphic, 'Schotter', 1968-1970, by Georg Nees.)<sup>[3](#myfootnote3)</sup>
+(Lithograph in black ink from a computer-generated graphic, 'Schotter', 1968-1970, by Georg Nees.)<sup>[6](#myfootnote6)</sup>
 
 
 There are many, many reproductions,and many derivatives because it is visually compelling, understandable, simple. The algorithm draws 12 columns and 22 rows of rectangles. Progressively by row, the rectangle's rotation and "jitter" or offset increase. 
@@ -78,4 +82,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 [Link](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01325?mobileUi=0&)
 
 <a name="myfootnote3">3</a>:Lithograph in black ink from a computer-generated graphic, 'Schotter', 1968-1970, by Georg Nees from V&A Collections.[LINK](https://collections.vam.ac.uk/item/O221321/schotter-print-nees-georg/)
+
+<a name="myfootnote4">4</a>:
+
+<a name="myfootnote5">5</a>:Apparently, a translation is also available in the hard to come by book "Cybernetics, Art, and Ideas", Reichardt, Jasia, ed. 1971. [LINK](http://dada.compart-bremen.de/item/publication/339)
+
+<a name="myfootnote6">6</a>:Lithograph in black ink from a computer-generated graphic, 'Schotter', 1968-1970, by Georg Nees from V&A Collections.[LINK](https://collections.vam.ac.uk/item/O221321/schotter-print-nees-georg/)
 
