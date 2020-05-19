@@ -50,7 +50,16 @@ What we know is that the counter index I is for the rows. What we don't know exp
 
 ![Image](https://github.com/frameRateZero/Blog/blob/media/Capture_artsnova_schotter.jpg?raw=true){:height="50%" width="50%"}
 
-For a more faithful approximation, I got out the ruler and protractor and measured the position change and rotation. It appears that the rotation and y-offset ranges increase lineraly with I rows, while the x-offset doesn't.
+Here's a repo of Processing sketches, called [Schotter Sketches](https://github.com/frameRateZero/Blog/blob/SchotterSketches), I've collected.
+
+## my Hello World
+
+For a more faithful approximation, I got out the ruler and protractor and measured the position change and rotation. It appears that the rotation and y-offset ranges increase lineraly with I rows, while the x-offset doesn't. I put my skecth of the "Classic" reproduction in the repo above.
+
+
+
+
+
 
 ###  Contact
 
