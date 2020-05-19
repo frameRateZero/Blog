@@ -1,23 +1,36 @@
 ## Reproducing Schotter as an Obligatory 'Hello World!'
 
-Computer programmers, coders, have ritualized printing "Hello World" as a first simple program. For beginners like me, it is a rite of passage. It feels a little like a coming of age ceremony transitioning from Graphic User Interfaces to text-driven commands. "Hello World" is the very basic.
+Computer programmers, coders, have ritualized printing "Hello World" as a first simple program. Printing a line is as basic as it gets. For beginners like me, it is a rite of passage. It feels a little like a coming of age ceremony transitioning from Graphic User Interfaces to text-driven commands. 
 
-For generative artists, the text, the code, produces images and graphics. An algorithm, a set of rules procedure, tells the computer to draw lines or color pixels. So, the most basic "Hellow World" program for a generative artist must draw something and use an algorithm. Any loop with a random variable will do. An example is a static noise generator:
+
+
+For generative artists, the text, the code, produces images and graphics. An algorithm, a set of rules procedure, tells the computer to draw lines or color pixels. So, the most basic "Hellow World" program for a generative artist must draw something and use an algorithm. Not any loop with a random variable will do. An poor example is a static noise generator:
 
 
 
 ##insert noise generator here
 
 
-This static, meets the letter, but not the spirit of "Hello World". "Hello, World? is anybody out there?" or "Hello World!, look at this!" 
+This static generator, meets the letter, but not the spirit of "Hello World". "Hello, World? is anybody out there?" or "Hello World!, look at this!" THe phrase "Hello World" has fungible meanings, deeper by fathoms than "Hi", and can be punctuated more than 8 different ways:
+```markdown
+- Hello World
+- Hello World.
+- Hello World!
+- Hello World?
+- Hello, World
+- Hello, World.
+- Hello, World!
+- Hello, World?
+- Hello...World...
+```
 
-Reproducing Gerge Nees', a pioneer of generative art, classic "Schotter" (Gravel) work from 196X is the obligatory anouncement.
+For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 1965 is the obligatory anouncement. Gerge Nees was a pioneer of computer art, 1965, the first exhibition of “ Generative Art” 
 
 
 ##insert Schotter here.
 
 
-There are many, many reproductions, many derivatives because it is visually compelling, understandable, simple. The algorithm draws 12 columns and 22 rows of rectangles. Progressively by row, the rotation increases and the "jitter" or ofset in the x and y direction increases.
+There are many, many reproductions,and many derivatives because it is visually compelling, understandable, simple. The algorithm draws 12 columns and 22 rows of rectangles. Progressively by row, the rectangle's rotation and "jitter" or offset increase. 
 
 
 
