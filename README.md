@@ -3,9 +3,10 @@
 This blog compliments my generative art zine by the same name -- FrameRate(0).
 
 The goals are to:
-1. Turn code into physical, non-screen based media.
-2. Make art and explore what that even means nowadays.
-3. Give back -- pay forward -- what I've learned. 
+1. Turn code into physical, non-screen based art objects.
+    a. Turn physical objects into screen-based ephemera. Goto #1.
+3. Make art and explore what that even means nowadays.
+4. Give back -- pay forward -- what I've learned. 
 
 ### Inventory of Posts
 
