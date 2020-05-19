@@ -9,7 +9,7 @@ The goals are to:
 
 ### Inventory of Posts
 
-* Reproducing Schotter as the Obligatory "Hello, World!" (May 2020). [LINK] ()
+* Reproducing Schotter as the Obligatory "Hello, World!" (May 2020). [LINK] (https://frameratezero.github.io/Blog/Reproducing_Schotter)
 * Playing with Blocks, Zine vol 1. Jan, 2020 (May 2020) [LINK] ()
 * Schotter Reducts -- Pen plotting, part 1 (June 2020) [LINK] ()
 * Schotter Reducts -- Pen plotting, part 2 (June 2020) [LINK] ()
