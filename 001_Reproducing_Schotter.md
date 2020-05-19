@@ -46,9 +46,12 @@ There are many, many reproductions,and many derivatives because it is visually c
 
 > Schotter is produced by invoking the SERIE procedure. The non-parametric procedure QUAD serves to generate the elementary figure which is reproduced multiple times in the composition process controlled by SERIE. QUAD is located in lines 4 through 15 of the generator. This procedure draws squares with sides of constant length but at random locations and different angles. From lines 9 and 10, it can be seen that the position of a single square is influenced by random generator J1, and the angle placement by J2. The successively increasing variation between the relative coordinates P and Q, and the angle position PSI of a given square, is controlled by the counter index I, which is invoked by each call from QUAD (see line 14).<sup>[7](#myfootnote7)</sup>
 
-What we know is that the counter index I is for the rows. What we don't know explicitly, and I've not found on the web, is how the randomness, for position and rotation, change per I rows. It is clearly not a linear change. 
+What we know is that the counter index I is for the rows. What we don't know explicitly, and I've not found on the web, is how the randomness, for position and rotation, change per I rows. The original change per I rows is hard to dial in. <sup>[8](#myfootnote8)</sup>. The reproduction on the right increases the "disorder" more gradually than the original.
 
 ![Image](https://github.com/frameRateZero/Blog/blob/media/Capture_artsnova_schotter.jpg?raw=true){:height="50%" width="50%"}
+
+For a more faithful approximation, I got out the ruler and protractor and measured the position change and rotation. It appears that the rotation and y-offset ranges increase lineraly with I rows, while the x-offset
+
 
 ### Markdown
 
