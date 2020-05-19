@@ -48,7 +48,7 @@ There are many, many reproductions,and many derivatives because it is visually c
 
 What we know is that the counter index I is for the rows. What we don't know explicitly, and I've not found on the web, is how the randomness, for position and rotation, change per I rows. The original change per I rows is hard to dial in. <sup>[8](#myfootnote8)</sup>. The reproduction on the right increases the "disorder" more gradually than the original.
 
-![Image](https://github.com/frameRateZero/Blog/blob/media/Capture_artsnova_schotter.jpg?raw=true){:height="50%" width="50%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/Capture_artsnova_schotter.JPG?raw=true){:height="50%" width="50%"}
 
 Here's a repo of Processing sketches, called [Schotter Sketches](https://github.com/frameRateZero/Blog/blob/SchotterSketches), I've collected.
 
