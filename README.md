@@ -1,6 +1,27 @@
-## Welcome to GitHub Pages
+## Reproducing Schotter as an Obligatory 'Hello World!'
 
-You can use the [editor on GitHub](https://github.com/frameRateZero/Schotter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Computer programmers, coders, have ritualized printing "Hello World" as a first simple program. For beginners like me, it is a rite of passage. It feels a little like a coming of age ceremony transitioning from Graphic User Interfaces to text-driven commands. "Hello World" is the very basic.
+
+For generative artists, the text, the code, produces images and graphics. An algorithm, a set of rules procedure, tells the computer to draw lines or color pixels. So, the most basic "Hellow World" program for a generative artist must draw something and use an algorithm. Any loop with a random variable will do. An example is a static noise generator:
+
+
+
+##insert noise generator here
+
+
+This static, meets the letter, but not the spirit of "Hello World". "Hello, World? is anybody out there?" or "Hello World!, look at this!" 
+
+Reproducing Gerge Nees', a pioneer of generative art, classic "Schotter" (Gravel) work from 196X is the obligatory anouncement.
+
+
+##insert Schotter here.
+
+
+There are many, many reproductions, many derivatives because it is visually compelling, understandable, simple. The algorithm draws 12 columns and 22 rows of rectangles. Progressively by row, the rotation increases and the "jitter" or ofset in the x and y direction increases.
+
+
+
+In 1960, Georg Nees 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
