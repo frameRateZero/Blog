@@ -23,6 +23,7 @@ This static generator, meets the letter, but not the spirit of "Hello World". "H
 - Hello, World?
 - Hello...World...
 ```
+
 ## Why Schotter
 For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 196X is the obligatory anouncement. Gerge Nees was a pioneer of computer art, part of a 1965 exhibition plainly called “Generative Art” <sup>[2](#myfootnote2)</sup> Nees' work was paired with Max Bense's paper "The projects of generative aesthetics" in the avantagarde booklet *rot.* in issue no 19. <sup>[3](#myfootnote3)</sup>. It considered to be the first manifesto of computer art.<sup>[2](#myfootnote3)</sup>. Here is a link to the translation from German using google translate.<sup>[4](#myfootnote4)</sup>, <sup>[5](#myfootnote5)</sup> 
 
@@ -30,8 +31,9 @@ Frankly, I don't understand most of the manifesto *yet*, but nevertheless it pro
 
 > It is clear that every generative aesthetic, which of course enables an aesthetic synthesis, is preceded by an analytical aesthetic, the process of which is used to prepare aesthetic structures from given works of art, which are their carriers, as aesthetic information. this prepared aesthetic information must be abstractly describable in order to be planned and implemented as planned in a concrete amount of material elements. There are currently four options for such an abstract description of aesthetic states (distributions or designs) that can be used to produce aesthetic structures. The semiotic, which is classifying, and the metric, statistical and topological, which are numerically and geometrically oriented.
 
-![Image](https://github.com/frameRateZero/Blog/blob/media/rot19Cover.jpg?raw=true){:height="30%" width="30%"}
-![Image](https://github.com/frameRateZero/Blog/blob/media/rot19kBild2.jpg?raw=true){:height="30%" width="30%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/rot19Cover.jpg?raw=true){:height="40%" width="40%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/rot19kBild2.jpg?raw=true){:height="40%" width="40%"}
+
 
 ## Making Schotter
 
@@ -40,13 +42,13 @@ Frankly, I don't understand most of the manifesto *yet*, but nevertheless it pro
 (Lithograph in black ink from a computer-generated graphic, 'Schotter', 1968-1970, by Georg Nees.)<sup>[6](#myfootnote6)</sup>
 
 
-There are many, many reproductions,and many derivatives because it is visually compelling, understandable, simple. The algorithm draws 12 columns and 22 rows of rectangles. Progressively by row, the rectangle's rotation and "jitter" or offset increase. 
+There are many, many reproductions,and many derivatives because it is visually compelling, understandable, simple. The algorithm draws 12 columns and 22 rows of suqares. Progressively by row, the square's rotation and "jitter" or offset increase. One interpretation of this displays is that it shows "the relationship between order and disorder, and the effects of change."<sup>[7](#myfootnote7)</sup> Below is a description of the algorithm Nees used.
 
+> Schotter is produced by invoking the SERIE procedure. The non-parametric procedure QUAD serves to generate the elementary figure which is reproduced multiple times in the composition process controlled by SERIE. QUAD is located in lines 4 through 15 of the generator. This procedure draws squares with sides of constant length but at random locations and different angles. From lines 9 and 10, it can be seen that the position of a single square is influenced by random generator J1, and the angle placement by J2. The successively increasing variation between the relative coordinates P and Q, and the angle position PSI of a given square, is controlled by the counter index I, which is invoked by each call from QUAD (see line 14).<sup>[7](#myfootnote7)</sup>
 
+What we know is that the counter index I is for the rows. What we don't know explicitly, and I've not found on the web, is how the randomness, for position and rotation, change per I rows. It is clearly not a linear change. 
 
-In 1960, Georg Nees 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://github.com/frameRateZero/Blog/blob/media/Capture_artsnova_schotter.jpg?raw=true){:height="50%" width="50%"}
 
 ### Markdown
 
@@ -93,4 +95,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <a name="myfootnote5">5</a>:Apparently, a translation is also available in the hard to come by book "Cybernetics, Art, and Ideas", Reichardt, Jasia, ed. 1971. [LINK](http://dada.compart-bremen.de/item/publication/339)
 
 <a name="myfootnote6">6</a>:Lithograph in black ink from a computer-generated graphic, 'Schotter', 1968-1970, by Georg Nees from V&A Collections.[LINK](https://collections.vam.ac.uk/item/O221321/schotter-print-nees-georg/)
+
+<a name="myfootnote7">7</a>:quoted text [LINK](http://www.medienkunstnetz.de/works/schotter/)
+
+<a name="myfootnote8">8</a>:screen capture from artsnova [LINK](http://www.artsnova.com/Nees_Schotter_Tutorial.html)
 
