@@ -24,9 +24,9 @@ This static generator, meets the letter, but not the spirit of "Hello World". "H
 - Hello...World...
 ```
 ## Why Schotter
-For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 196X is the obligatory anouncement. Gerge Nees was a pioneer of computer art, part of a 1965 exhibition plainly called “Generative Art” <sup>[2](#myfootnote2)</sup> Nees' work was paired with Max Bense's paper "The projects of generative aesthetics" in the avantagarde booklet *rot.* in issue no 19. <sup>[3](#myfootnote3)</sup>. It considered to be the first manifesto of computer art.<sup>[2](#myfootnote3)</sup>. Here is a translation from German using google translate.<sup>[4](#myfootnote4)</sup>, <sup>[5](#myfootnote5)</sup> 
+For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 196X is the obligatory anouncement. Gerge Nees was a pioneer of computer art, part of a 1965 exhibition plainly called “Generative Art” <sup>[2](#myfootnote2)</sup> Nees' work was paired with Max Bense's paper "The projects of generative aesthetics" in the avantagarde booklet *rot.* in issue no 19. <sup>[3](#myfootnote3)</sup>. It considered to be the first manifesto of computer art.<sup>[2](#myfootnote3)</sup>. Here is a link to the translation from German using google translate.<sup>[4](#myfootnote4)</sup>, <sup>[5](#myfootnote5)</sup> 
 
-Frankly, I don't understand most of the manifesto, but nevertheless provides important context for todays computer artists. The following translated quotes, in particular, are worth a think. 
+Frankly, I don't understand most of the manifesto *yet*, but nevertheless it provides an important context for todays computer artists. The following translated quotes, in particular, are worth a think. 
 
 > It is clear that every generative aesthetic, which of course enables an aesthetic synthesis, is preceded by an analytical aesthetic, the process of which is used to prepare aesthetic structures from given works of art, which are their carriers, as aesthetic information. this prepared aesthetic information must be abstractly describable in order to be planned and implemented as planned in a concrete amount of material elements. There are currently four options for such an abstract description of aesthetic states (distributions or designs) that can be used to produce aesthetic structures. The semiotic, which is classifying, and the metric, statistical and topological, which are numerically and geometrically oriented.
 
@@ -88,7 +88,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <a name="myfootnote3">3</a>:rot. no 19 .[PDF](http://dada.compart-bremen.de/docUploads/rot19k.pdf) [PDFmirror](https://github.com/frameRateZero/Blog/blob/media/rot19k.pdf)
 
-<a name="myfootnote4">4</a>:
+<a name="myfootnote4">4</a>:my tranlsation of Max Bense's "projects of generative aesthetics" manifesto via Google Translate. [LINK](https://github.com/frameRateZero/Blog/blob/media/MaxBense_ProjectComputerGraphic_translated.docx)
 
 <a name="myfootnote5">5</a>:Apparently, a translation is also available in the hard to come by book "Cybernetics, Art, and Ideas", Reichardt, Jasia, ed. 1971. [LINK](http://dada.compart-bremen.de/item/publication/339)
 
