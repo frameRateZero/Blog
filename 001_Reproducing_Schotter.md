@@ -26,8 +26,8 @@ This static generator, meets the letter, but not the spirit of "Hello World". "H
 ## Why Schotter
 For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 196X is the obligatory anouncement. Gerge Nees was a pioneer of computer art, part of a 1965 exhibition plainly called “Generative Art” <sup>[2](#myfootnote2)</sup> Nees' work was paired with Max Bense's paper "The projects of generative aesthetics" in the avantagarde booklet *rot.* in issue no 19. <sup>[3](#myfootnote3)</sup>. Here is a translation from German using google translate.<sup>[4](#myfootnote4)</sup>, <sup>[5](#myfootnote5)</sup>
 
-![Image](https://github.com/frameRateZero/Blog/blob/media/rot19Cover.jpg?raw=true){:height="50%" width="50%"}
-![Image](https://github.com/frameRateZero/Blog/blob/media/rot19Nees.jpg?raw=true){:height="50%" width="50%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/rot19kCover.jpg?raw=true){:height="50%" width="50%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/rot19kBild2.jpg?raw=true){:height="50%" width="50%"}
 
 ## Making Schotter
 
@@ -81,7 +81,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <a name="myfootnote2">2</a>: The Pioneer of Generative Art: Georg Nees. Frieder Nake. Leonardo 2018 51:3, 277-279.
 [Link](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01325?mobileUi=0&)
 
-<a name="myfootnote3">3</a>:Lithograph in black ink from a computer-generated graphic, 'Schotter', 1968-1970, by Georg Nees from V&A Collections.[LINK](https://collections.vam.ac.uk/item/O221321/schotter-print-nees-georg/)
+<a name="myfootnote3">3</a>:rot. no 19 .[PDF](http://dada.compart-bremen.de/docUploads/rot19k.pdf) [PDFmirror](https://github.com/frameRateZero/Blog/blob/media/rot19k.pdf)
 
 <a name="myfootnote4">4</a>:
 
