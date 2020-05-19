@@ -1,8 +1,8 @@
 ## Reproducing Schotter as an Obligatory 'Hello World!'
 
-Computer programmers, coders, have ritualized printing "Hello, World!" as a first simple program.<sup>[1](#myfootnote1)</sup> Printing a some words is as basic as it gets. But "Hello, World!" is more that a test program.
+Computer programmers have ritualized printing "Hello, World!" as a first simple program over the last 50 years.<sup>[1](#myfootnote1)</sup> Printing some words is as basic as it gets. But "Hello, World!" is more than a test program.
 
-For beginners like me, it is a rite of passage, and anouncement. It feels a little like a coming of age ceremony transitioning from Graphical User Interfaces to text-driven commands. So, how do generative artists initiate this?
+For beginners like me, it is a rite of passage - an anouncement. It feels a little like a coming of age ceremony transitioning from Graphical User Interfaces to text-driven commands. So, how do generative artists initiate this?
 
 First, some background. For generative artists, the text, the code, produces images and graphics. An algorithm, a set of rules procedure, tells the computer to draw lines or color pixels. So, the most basic "Hello World" program for a generative artist must draw something and use an algorithm. Not any loop with a random variable will do. An poor example is a static noise generator:
 
@@ -11,7 +11,7 @@ First, some background. For generative artists, the text, the code, produces ima
 ##insert noise generator here
 
 
-This static generator, meets the letter, but not the spirit of "Hello World". "Hello, World? is anybody out there?" or "Hello World!, look at this!" THe phrase "Hello World" has fungible meanings, deeper by fathoms than "Hi", and can be punctuated more than 8 different ways:
+This static generator, meets the letter, but not the spirit of "Hello World". "Hello, World? is anybody out there?" or "Hello World!, look at this!" THe phrase "Hello World" has fungible meanings, deeper by fathoms than "Hi, this program works", and can be punctuated more than 8 different ways:
 ```markdown
 - Hello World
 - Hello World.
