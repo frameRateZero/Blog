@@ -24,7 +24,10 @@ This static generator, meets the letter, but not the spirit of "Hello World". "H
 - Hello...World...
 ```
 ## Why Schotter
-For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 196X is the obligatory anouncement. Gerge Nees was a pioneer of computer art, part of a 1965 exhibition plainly called “Generative Art” <sup>[2](#myfootnote2)</sup> Nees' work was paired with Max Bense's paper "The projects of generative aesthetics" in the avantagarde booklet *rot.* in issue no 19. <sup>[3](#myfootnote3)</sup>. Here is a translation from German using google translate.<sup>[4](#myfootnote4)</sup>, <sup>[5](#myfootnote5)</sup>
+For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work from 196X is the obligatory anouncement. Gerge Nees was a pioneer of computer art, part of a 1965 exhibition plainly called “Generative Art” <sup>[2](#myfootnote2)</sup> Nees' work was paired with Max Bense's paper "The projects of generative aesthetics" in the avantagarde booklet *rot.* in issue no 19. <sup>[3](#myfootnote3)</sup>. It considered to be the first manifesto of computer art.<sup>[2](#myfootnote3)</sup>. Here is a translation from German using google translate.<sup>[4](#myfootnote4)</sup>, <sup>[5](#myfootnote5)</sup> 
+
+The manifesto holds up well, was prescient, and provides important context for todays computer artists. The following translated quotes, in particular, are worth a think. 
+"quote here"
 
 ![Image](https://github.com/frameRateZero/Blog/blob/media/rot19Cover.jpg?raw=true){:height="50%" width="50%"}
 ![Image](https://github.com/frameRateZero/Blog/blob/media/rot19kBild2.jpg?raw=true){:height="50%" width="50%"}
@@ -32,6 +35,7 @@ For generative artists reproducing Gerge Nees' classic "Schotter" (Gravel) work 
 ## Making Schotter
 
 ![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg?raw=true){:height="50%" width="50%"}
+
 (Lithograph in black ink from a computer-generated graphic, 'Schotter', 1968-1970, by Georg Nees.)<sup>[6](#myfootnote6)</sup>
 
 
