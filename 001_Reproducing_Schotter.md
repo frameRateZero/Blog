@@ -60,7 +60,7 @@ Rotation range simply appears to multiply by 2 per row, starting at 2 degrees an
 I put my Processing sketch of the "Classic" reproduction an others I've collected in a repo called [Schotter Sketches](https://github.com/frameRateZero/Blog/blob/SchotterSketches).
 
 Here is a quick version from OpenProcessing to play with. The mouse controls offset and rotation.
-<iframe src="https://www.openprocessing.org/sketch/901305/embed/" width="400" height="800"></iframe>
+<iframe src="https://www.openprocessing.org/sketch/901305/embed/" width="300" height="420"></iframe>
 
 ## Footnotes
 <a name="myfootnote1">1</a>: "Hello, World!", Wikipedia, accessed 5/19/2020. [Link](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
