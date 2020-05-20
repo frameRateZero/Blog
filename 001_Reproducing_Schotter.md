@@ -56,27 +56,10 @@ Here's a repo of Processing sketches, called [Schotter Sketches](https://github.
 
 For a more faithful approximation, I got out the ruler and protractor and measured the position change and rotation. It appears that the rotation and offset ranges increase linearly with I rows. Also, the rotation and offsets are not correlated, indicating Nees used three unique random values per square - rotation, x-offset, and y-offset. 
 
-Rotation range simply appears to multiply by 2 per row, starting at 2 degrees and maxing out at 44 degrees.
+Rotation range simply appears to multiply by 2 per row, starting at 2 degrees and maxing out at 44 degrees. For the x and y offsets, the max offset is proportional to the row index. It would be nice if this was simple. It looks like it really is simple, but I could be wandering lost; the offset random range is just 3/4ths of the row index. Let's try it and see, compared to the lithograph version above.
 
-**Table. Max Rotation Measured from Schotter increases linearly by row.**
-Row No. | Max Rotation (deg)
------------- | -------------
-2	| 3.6
-4 | 7.5
-6	| 10.3
-7	| 11.0
-11	| 18.5
-15	| 23.7
-16	| 31.1
-18	| 33.1
-20	| 33.1
-21	| 42.3
-22	| 42.4
-
-For the x and y offsets, the max offset is proportional to the row index. It would be nice if this was simple. It looks like it really is simple, but I could be wandering lost; the offset random range is just the row index. Let's try it and see, compared to the lithograph version above.
-
-![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg?raw=true){:height="50%" width="50%"}
-![Image](https://github.com/frameRateZero/Blog/blob/media/SchotterClassic022.png?raw=true){:height="50%" width="50%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg?raw=true){:height="40%" width="40%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/SchotterClassic022.png?raw=true){:height="40%" width="40%"}
 
 
 I put my skecth of the "Classic" reproduction in the repo above.
