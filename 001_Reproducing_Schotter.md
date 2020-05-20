@@ -44,7 +44,7 @@ There are many, many reproductions, and many derivatives because it is visually 
 
 What we know is that the counter index I is for the rows. What we don't know explicitly, and I've not found on the web, is how the randomness, for position and rotation, changes per I rows. The original change per I rows is not obvious. <sup>[8](#myfootnote8)</sup>. The reproduction on the right increases the "disorder" more gradually than the original on the left.
 
-![Image](https://github.com/frameRateZero/Blog/blob/media/Capture_artsnova_schotter.JPG?raw=true){:height="60%" width="60%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/Capture_artsnova_schotter.JPG?raw=true){:height="80%" width="80%"}
 
 
 ## Re-Making Schotter
@@ -53,11 +53,11 @@ For a more faithful approximation, I got out the ruler and protractor and measur
 
 Rotation range simply appears to multiply by 2 per row, starting at 2 degrees and maxing out at 44 degrees. For the x and y offsets, the max offset is proportional to the row index. It would be nice if this was simple. It looks like it really is simple, but I could be wandering lost; the offset random range appears to be just scale with the Row index. Let's try it and see, compared to the lithograph version above.
 
-![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg?raw=true){:height="40%" width="40%"}
-![Image](https://github.com/frameRateZero/Blog/blob/media/SchotterClassic1022.png?raw=true){:height="40%" width="40%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg?raw=true){:height="50%" width="50%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/SchotterClassic1022.png?raw=true){:height="50%" width="50%"}
 
 
-I put my Processing sketch of the "Classic" reproduction an others I've found in a repo called [Schotter Sketches](https://github.com/frameRateZero/Blog/blob/SchotterSketches), I've collected.
+I put my Processing sketch of the "Classic" reproduction an others I've collected in a repo called [Schotter Sketches](https://github.com/frameRateZero/Blog/blob/SchotterSketches)..
 
 
 ## Footnotes
