@@ -58,8 +58,8 @@ For a more faithful approximation, I got out the ruler and protractor and measur
 
 Rotation range simply appears to multiply by 2 per row, starting at 2 degrees and maxing out at 44 degrees. For the x and y offsets, the max offset is proportional to the row index. It would be nice if this was simple. It looks like it really is simple, but I could be wandering lost; the offset random range is just 3/4ths of the row index. Let's try it and see, compared to the lithograph version above.
 
-![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg?raw=true){:height="40%" width="40%"}
-![Image](https://github.com/frameRateZero/Blog/blob/media/SchotterClassic022.png?raw=true){:height="40%" width="40%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg?raw=true){:height="30%" width="30%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/SchotterClassic022.png?raw=true){:height="30%" width="30%"}
 
 
 I put my skecth of the "Classic" reproduction in the repo above.
