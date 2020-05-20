@@ -76,7 +76,7 @@ Row No. | Max Rotation (deg)
 For the x and y offsets, the max offset is proportional to the row index. It would be nice if this was simple. It looks like it really is simple, but I could be wandering lost; the offset random range is just the row index. Let's try it and see, compared to the lithograph version above.
 
 ![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg?raw=true){:height="50%" width="50%"}
-![Image](https://github.com/frameRateZero/Blog/blob/media/Classic022.png?raw=true){:height="50%" width="50%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/SchotterClassic022.png?raw=true){:height="50%" width="50%"}
 
 
 I put my skecth of the "Classic" reproduction in the repo above.
