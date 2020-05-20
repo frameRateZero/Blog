@@ -1,10 +1,10 @@
-#Playing With Blocks
+# Playing With Blocks
 
-Baby steps are trial and error. My first generative art frameRate(0) zine (Jan 2020) fell down a lot. Partly because it was my ["Hello World"](), and mostly because it was an homage to George Nees and his classic work Schotter. 
+Baby steps are trial and error. My first generative art frameRate(0) zine (Jan 2020) fell down a lot. Partly because it was my ["Hello World"](https://frameratezero.github.io/Blog/001_Reproducing_Schotter), and mostly because it was an homage to George Nees and his classic work Schotter. 
 
-![Image](https://github.com/frameRateZero/Blog/blob/media/londonBridgeJan2020.jpg?raw=true){:height="45%" width="45%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/londonBridgeJan2020.JPG?raw=true){:height="45%" width="45%"}
 
-There are many reproductions and many derivatives of Schotter because it is visually compelling, understandable, simple. The algorithm draws 12 columns and 22 rows of squares. Progressively by row, the rotation and "jitter" or offset applied to the square increases. One interpretation of Schotter is that it shows "the relationship between order and disorder, and the effects of change."<sup>[1](#myfootnote1)</sup> I go into much more detail about Schotter another [post](). 
+There are many reproductions and many derivatives of Schotter because it is visually compelling, understandable, simple. The algorithm draws 12 columns and 22 rows of squares. Progressively by row, the rotation and "jitter" or offset applied to the square increases. One interpretation of Schotter is that it shows "the relationship between order and disorder, and the effects of change."<sup>[1](#myfootnote1)</sup> I go into much more detail about Schotter another [post](https://frameratezero.github.io/Blog/001_Reproducing_Schotter). 
 
 The combination of the grid and use of a square is so simple yet rich with possibility. The beautiful book "10 PRINT CHR$(205.5+RND(1)); : GOTO 10"<sup>[2](#myfootnote2)</sup> illustrates the this concept through pages of graphics. It offers a defense of the grid saying:
 
@@ -16,7 +16,7 @@ The sharpest critism of the grid was laid out in depth in Rosaline Krauss' 1979 
 
 
 
-##Footnotes
+## Footnotes
 <a name="myfootnote1">1</a>:text describing the Schotter code is here [LINK](http://www.medienkunstnetz.de/works/schotter/)
 
 <a name="myfootnote2">2</a>: 
