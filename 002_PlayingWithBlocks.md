@@ -1,6 +1,6 @@
 # Playing With Blocks
 
-Baby steps are trial and error. My first generative art frameRate(0) zine (Jan 2020) fell down a lot. Partly because it was my ["Hello World"](https://frameratezero.github.io/Blog/001_Reproducing_Schotter) GaGa GooGoo, and also because it was an homage to George Nees and his classic work Schotter. 
+Baby steps are trial and error. My first generative art frameRate(0) zine (Jan 2020) fell down a lot. Partly because it was my ["Hello World?"](https://frameratezero.github.io/Blog/001_Reproducing_Schotter), and also because it was an homage to George Nees and his classic work Schotter. 
 
 ![Image](https://github.com/frameRateZero/Blog/blob/media/londonBridge2Jan2020.jpg?raw=true){:height="45%" width="45%"}
 
