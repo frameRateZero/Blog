@@ -52,7 +52,7 @@ What we know is that the counter index I is for the rows. What we don't know exp
 
 Here's a repo of Processing sketches, called [Schotter Sketches](https://github.com/frameRateZero/Blog/blob/SchotterSketches), I've collected.
 
-## my Hello World
+## Re-Making Schotter
 
 For a more faithful approximation, I got out the ruler and protractor and measured the position change and rotation. It appears that the rotation and y-offset ranges increase linearly with I rows, while the x-offset doesn't. I put my skecth of the "Classic" reproduction in the repo above.
 
