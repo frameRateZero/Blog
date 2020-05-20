@@ -20,13 +20,13 @@ The beauty of Schotter is that it provides a springboard for bouncing thought bu
 
 In a sense, that is what the frameRate(0) zine is all about. Making ideas become finger-touchable objects. A couple pieces inside the zine are shown below. 
 
-WALL or FALL (W|F)ALL considers the US-Mexico border wall, like Schotter the blocks go from solid to nothing. Here, there is no being on the fence, only for or against, you're in or out.
+WALL or FALL considers the US-Mexico border wall, like Schotter the blocks go from solid in the middle to nothing on the ends. Here, there is no being on the fence, only for or against, you're in or out.
 
 ![Image](https://github.com/frameRateZero/Blog/blob/media/wallFallJan2020.jpg?raw=true){:height="45%" width="45%"}
 
 LeafCutter is a demonstration of the joy that can be had with polygon clipping. The Geomerative Library in Processing makes polygon operations possible.
 
-![Image](https://github.com/frameRateZero/Blog/blob/media/wleafCutterJan2020.jpg?raw=true){:height="45%" width="45%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/leafCutterJan2020.jpg?raw=true){:height="45%" width="45%"}
 
 
 ## Footnotes
