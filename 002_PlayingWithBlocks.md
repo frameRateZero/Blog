@@ -6,7 +6,7 @@ Baby steps are trial and error. My first generative art frameRate(0) zine (Jan 2
 
 There are many reproductions and many derivatives of Schotter, like the ABC blocks above, because it is visually compelling, understandable, simple. The algorithm draws 12 columns and 22 rows of squares. Progressively by row, the rotation and "jitter" or offset applied to the square increases. One interpretation of Schotter is that it shows "the relationship between order and disorder, and the effects of change."<sup>[1](#myfootnote1)</sup> I go into much more detail about Schotter another [post](https://frameratezero.github.io/Blog/001_Reproducing_Schotter). 
 
-The combination of the grid and use of a square is so simple yet rich with possibility. The beautiful book "10 PRINT CHR$(205.5+RND(1)); : GOTO 10"<sup>[2](#myfootnote2)</sup> illustrates the this concept through pages of graphics. It offers a defense of the grid saying:
+The combination of the grid and use of a square is so simple yet rich with possibility. The beautiful book "10 PRINT CHR$(205.5+RND(1)); : GOTO 10"<sup>[2](#myfootnote2)</sup> illustrates the this concept through pages of graphics and thoughtful text. It offers a defense of the grid saying:
 
 >"...the structure of the grid is what makes it possible to focus on the variability created through random operations." <sup>[3](#myfootnote3)</sup>
 
