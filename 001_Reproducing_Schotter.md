@@ -54,7 +54,7 @@ Here's a repo of Processing sketches, called [Schotter Sketches](https://github.
 
 ## Re-Making Schotter
 
-For a more faithful approximation, I got out the ruler and protractor and measured the position change and rotation. It appears that the rotation and y-offset ranges increase linearly with I rows, while the x-offset doesn't. I put my skecth of the "Classic" reproduction in the repo above.
+For a more faithful approximation, I got out the ruler and protractor and measured the position change and rotation. It appears that the rotation and offset ranges increase linearly with I rows. Also, the rotation and offsets are not correlated, indicating Nees used three unique random values per square - rotation, x-offset, and y-offset. 
 
 Rotation range simply appears to multiply by 2 per row, starting at 2 degrees and maxing out at 44 degrees.
 
@@ -73,9 +73,9 @@ Row No. | Max Rotation (deg)
 21	| 42.3
 22	| 42.4
 
+For the x and y offsets, the max offset is proportional to the row index. It would be nice if there was a neat relationship to the square size. It looks like, but I could be wandering lost, that the the offset max is 3/4ths of the square's edge and by row. Let's try it and see.
 
-
-
+I put my skecth of the "Classic" reproduction in the repo above.
 
 ###  Contact
 
