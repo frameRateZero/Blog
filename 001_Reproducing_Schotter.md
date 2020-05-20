@@ -54,12 +54,16 @@ Here's a repo of Processing sketches, called [Schotter Sketches](https://github.
 
 ## my Hello World
 
-For a more faithful approximation, I got out the ruler and protractor and measured the position change and rotation. It appears that the rotation and y-offset ranges increase lineraly with I rows, while the x-offset doesn't. I put my skecth of the "Classic" reproduction in the repo above.
+For a more faithful approximation, I got out the ruler and protractor and measured the position change and rotation. It appears that the rotation and y-offset ranges increase linearly with I rows, while the x-offset doesn't. I put my skecth of the "Classic" reproduction in the repo above.
 
+Rotation range simply appears to multiply by 2 per row, starting at 2 degrees and maxing out at 44 degrees.
+
+**Table. Max Rotation Measured from Schotter increases linearly by row.**
 Row No. | Max Rotation (deg)
 ------------ | -------------
-1	| 0
-6	| 10.03
+2	| 3.6
+4 | 7.5
+6	| 10.3
 7	| 11.0
 11	| 18.5
 15	| 23.7
