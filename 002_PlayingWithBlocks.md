@@ -2,7 +2,7 @@
 
 Baby steps are trial and error. My first generative art frameRate(0) zine (Jan 2020) fell down a lot. Partly because it was my ["Hello World"](https://frameratezero.github.io/Blog/001_Reproducing_Schotter), and mostly because it was an homage to George Nees and his classic work Schotter. 
 
-![Image](https://github.com/frameRateZero/Blog/blob/media/londonBridgeJan2020.JPG?raw=true){:height="45%" width="45%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/londonBridgeJan2020.jpg?raw=true){:height="45%" width="45%"}
 
 There are many reproductions and many derivatives of Schotter because it is visually compelling, understandable, simple. The algorithm draws 12 columns and 22 rows of squares. Progressively by row, the rotation and "jitter" or offset applied to the square increases. One interpretation of Schotter is that it shows "the relationship between order and disorder, and the effects of change."<sup>[1](#myfootnote1)</sup> I go into much more detail about Schotter another [post](https://frameratezero.github.io/Blog/001_Reproducing_Schotter). 
 
