@@ -57,7 +57,7 @@ Rotation range simply appears to multiply by 2 per row, starting at 2 degrees an
 ![Image](https://github.com/frameRateZero/Blog/blob/media/SchotterClassic1022.png?raw=true){:height="50%" width="50%"}
 
 
-I put my Processing sketch of the "Classic" reproduction an others I've collected in a repo called [Schotter Sketches](https://github.com/frameRateZero/Blog/blob/SchotterSketches)..
+I put my Processing sketch of the "Classic" reproduction an others I've collected in a repo called [Schotter Sketches](https://github.com/frameRateZero/Blog/blob/SchotterSketches).
 
 
 ## Footnotes
