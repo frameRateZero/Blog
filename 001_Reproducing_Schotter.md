@@ -46,7 +46,7 @@ There are many, many reproductions,and many derivatives because it is visually c
 
 > Schotter is produced by invoking the SERIE procedure. The non-parametric procedure QUAD serves to generate the elementary figure which is reproduced multiple times in the composition process controlled by SERIE. QUAD is located in lines 4 through 15 of the generator. This procedure draws squares with sides of constant length but at random locations and different angles. From lines 9 and 10, it can be seen that the position of a single square is influenced by random generator J1, and the angle placement by J2. The successively increasing variation between the relative coordinates P and Q, and the angle position PSI of a given square, is controlled by the counter index I, which is invoked by each call from QUAD (see line 14).<sup>[7](#myfootnote7)</sup>
 
-What we know is that the counter index I is for the rows. What we don't know explicitly, and I've not found on the web, is how the randomness, for position and rotation, changes per I rows. The original change per I rows is hard to dial in. <sup>[8](#myfootnote8)</sup>. The reproduction on the right increases the "disorder" more gradually than the original on the left.
+What we know is that the counter index I is for the rows. What we don't know explicitly, and I've not found on the web, is how the randomness, for position and rotation, changes per I rows. The original change per I rows is not obvious. <sup>[8](#myfootnote8)</sup>. The reproduction on the right increases the "disorder" more gradually than the original on the left.
 
 ![Image](https://github.com/frameRateZero/Blog/blob/media/Capture_artsnova_schotter.JPG?raw=true){:height="50%" width="50%"}
 
@@ -73,7 +73,11 @@ Row No. | Max Rotation (deg)
 21	| 42.3
 22	| 42.4
 
-For the x and y offsets, the max offset is proportional to the row index. It would be nice if there was a neat relationship to the square size. It looks like, but I could be wandering lost, that the the offset max is 3/4ths of the square's edge and by row. Let's try it and see.
+For the x and y offsets, the max offset is proportional to the row index. It would be nice if this was simple. It looks like it really is simple, but I could be wandering lost; the offset random range is just the row index. Let's try it and see, compared to the lithograph version above.
+
+![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg?raw=true){:height="50%" width="50%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/Classic022.png?raw=true){:height="50%" width="50%"}
+
 
 I put my skecth of the "Classic" reproduction in the repo above.
 
