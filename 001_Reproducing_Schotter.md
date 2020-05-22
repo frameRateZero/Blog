@@ -57,7 +57,7 @@ Rotation range simply appears to multiply by 2 per row (or 45/22 per row).<a nam
 ![Image](https://github.com/frameRateZero/Blog/blob/media/SchotterClassic2022.png?raw=true){:height="40%" width="40%"}
 
 
-I put my Processing sketch of the "Classic" reproduction an others I've collected in a repo called [Schotter Sketches](https://github.com/frameRateZero/Schotter-Sketches) that show a some different approaches. Many, many more abound on OpenProcessing for "Schotter".
+I put my Processing sketch of the "Classic" reproduction an others I've collected in a repo called [Schotter Sketches](https://github.com/frameRateZero/Schotter-Sketches) that show a some different approaches. Many, many more abound on OpenProcessing for ["Schotter"](https://www.openprocessing.org/browse/?q=schotter&time=anytime&type=all#).
 
 Here is a quick version from p5.js Web Editor to play with. The mouse controls offset and rotation.
 <iframe style="width: 300px; height: 420px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/frameRateZero/embed/PEUYotzqb"></iframe>
