@@ -54,7 +54,7 @@ For a more faithful approximation, I got out the ruler and protractor and measur
 Rotation range simply appears to multiply by 2 per row (or 45/22 per row).<a name="myfootnote9">9</a>: For the x and y offsets, the max offset is proportional to the row index. It would be nice if this was simple. It looks like it really is simple, but I could be wandering lost; the offset random range appears to just scale with the Row index. Let's try it and see, compared to the lithograph version above.
 
 ![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg?raw=true){:height="40%" width="40%"}
-![Image](https://github.com/frameRateZero/Blog/blob/media/SchotterClassic3022.png?raw=true){:height="40%" width="40%"}
+![Image](https://github.com/frameRateZero/Blog/blob/media/SchotterClassic2022.png?raw=true){:height="40%" width="40%"}
 
 
 I put my Processing sketch of the "Classic" reproduction an others I've collected in a repo called [Schotter Sketches](https://github.com/frameRateZero/Schotter-Sketches).
