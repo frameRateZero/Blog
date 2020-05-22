@@ -2,8 +2,7 @@
 
 This blog compliments my generative art zine by the same name -- FrameRate(0).
 
-The goals are to:
-
+Motivations:
 1. Turn code into physical, non-screen based art objects.
    1. Turn physical objects into screen-based ephemera. Goto #1.
 1. Make art and explore what that even means nowadays.
@@ -11,8 +10,8 @@ The goals are to:
 
 ### Inventory of Posts
 
-* Reproducing Schotter as the Obligatory "Hello, World!" (May 2020). [LINK](https://frameratezero.github.io/Blog/001_Reproducing_Schotter)
-* Playing with Blocks, Zine vol 1. Jan, 2020 (May 2020) [LINK](https://frameratezero.github.io/Blog/002_PlayingWithBlocks)
+* Reproducing Schotter as the Obligatory "Hello, World!" (May 2020). [LINK](https://frameratezero.github.io/frameRateZero/001_Reproducing_Schotter)
+* Playing with Blocks, Zine vol 1. Jan, 2020 (May 2020) [LINK](https://frameratezero.github.io/frameRateZero/002_PlayingWithBlocks)
 * Schotter Reducts -- Pen plotting, part 1 (June 2020) [LINK] ()
 * Schotter Reducts -- Pen plotting, part 2 (June 2020) [LINK] ()
 
