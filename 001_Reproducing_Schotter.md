@@ -62,7 +62,7 @@ I put my Processing sketch of the "Classic" reproduction an others I've collecte
 Here is a quick version from OpenProcessing to play with. The mouse controls offset and rotation.
 <iframe style="width: 300px; height: 420px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://www.openprocessing.org/sketch/901305/embed/" ></iframe>
 
-[HOME](https://frameratezero.github.io/frameRateZero/) [NEXT>](https://frameratezero.github.io/frameRateZero/002_PlayingWithBlocks)
+[HOME](https://frameratezero.github.io/frameRateZero/)    [NEXT>](https://frameratezero.github.io/frameRateZero/002_PlayingWithBlocks)
 
 ## Footnotes
 <a name="myfootnote1">1</a>: "Hello, World!", Wikipedia, accessed 5/19/2020. [Link](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
@@ -70,15 +70,15 @@ Here is a quick version from OpenProcessing to play with. The mouse controls off
 <a name="myfootnote2">2</a>: The Pioneer of Generative Art: Georg Nees. Frieder Nake. Leonardo 2018 51:3, 277-279.
 [Link](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01325?mobileUi=0&)
 
-<a name="myfootnote3">3</a>:rot. no 19 .[PDF](http://dada.compart-bremen.de/docUploads/rot19k.pdf) 
+<a name="myfootnote3">3</a>: rot. no 19 .[PDF](http://dada.compart-bremen.de/docUploads/rot19k.pdf) 
 
-<a name="myfootnote4">4</a>:my tranlsation of Max Bense's "projects of generative aesthetics" manifesto via Google Translate. [LINK](https://github.com/frameRateZero/Blog/blob/media/MaxBense_ProjectComputerGraphic_translated.docx)
+<a name="myfootnote4">4</a>: My tranlsation of Max Bense's "projects of generative aesthetics" manifesto via Google Translate. [LINK](https://github.com/frameRateZero/Blog/blob/media/MaxBense_ProjectComputerGraphic_translated.docx)
 
-<a name="myfootnote5">5</a>:Apparently, a translation is also available in the hard to come by book "Cybernetics, Art, and Ideas", Reichardt, Jasia, ed. 1971. [LINK](http://dada.compart-bremen.de/item/publication/339)
+<a name="myfootnote5">5</a>: Apparently, a translation is also available in the hard to come by book "Cybernetics, Art, and Ideas", Reichardt, Jasia, ed. 1971. [LINK](http://dada.compart-bremen.de/item/publication/339)
 
-<a name="myfootnote6">6</a>:Lithograph in black ink from a computer-generated graphic, 'Schotter', 1968-1970, by Georg Nees from V&A Collections.[LINK](https://collections.vam.ac.uk/item/O221321/schotter-print-nees-georg/)
+<a name="myfootnote6">6</a>: Lithograph in black ink from a computer-generated graphic, 'Schotter', 1968-1970, by Georg Nees from V&A Collections.[LINK](https://collections.vam.ac.uk/item/O221321/schotter-print-nees-georg/)
 
-<a name="myfootnote7">7</a>:text describing the Schotter code is here [LINK](http://www.medienkunstnetz.de/works/schotter/)
+<a name="myfootnote7">7</a>: Text describing the Schotter code is here [LINK](http://www.medienkunstnetz.de/works/schotter/)
 
-<a name="myfootnote8">8</a>:screen capture from artsnova showing an original side by side with a reproduction [LINK](http://www.artsnova.com/Nees_Schotter_Tutorial.html)
+<a name="myfootnote8">8</a>: Screen capture from artsnova showing an original side by side with a reproduction [LINK](http://www.artsnova.com/Nees_Schotter_Tutorial.html)
 
