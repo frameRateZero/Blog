@@ -51,7 +51,7 @@ What we know is that the counter index is for the rows. What we don't know expli
 
 For a more faithful approximation, I got out the ruler and protractor and measured the position change and rotation. It appears that the rotation and offset ranges increase linearly with I rows. Also, the rotation and offsets are not correlated, indicating Nees used three unique random values per square - rotation, x-offset, and y-offset. 
 
-Rotation range simply appears to multiply by 2 per row, starting at 2 degrees and maxing out at 44 degrees. For the x and y offsets, the max offset is proportional to the row index. It would be nice if this was simple. It looks like it really is simple, but I could be wandering lost; the offset random range appears to be just scale with the Row index. Let's try it and see, compared to the lithograph version above.
+Rotation range simply appears to multiply by 2 per row (or 45/22 per row).<a name="myfootnote9">9</a>: For the x and y offsets, the max offset is proportional to the row index. It would be nice if this was simple. It looks like it really is simple, but I could be wandering lost; the offset random range appears to just scale with the Row index. Let's try it and see, compared to the lithograph version above.
 
 ![Image](https://github.com/frameRateZero/Blog/blob/media/2009CE0997_2500.jpg?raw=true){:height="40%" width="40%"}
 ![Image](https://github.com/frameRateZero/Blog/blob/media/SchotterClassic1022.png?raw=true){:height="40%" width="40%"}
@@ -82,3 +82,4 @@ Here is a quick version from OpenProcessing to play with. The mouse controls off
 
 <a name="myfootnote8">8</a>: Screen capture from artsnova showing an original side by side with a reproduction [LINK](http://www.artsnova.com/Nees_Schotter_Tutorial.html)
 
+<a name="myfootnote9">9</a>: It's convenient to use 45/22 (2.045...)per step, which is indistinguishable from 2 per step. Someone who knows ALGOL can weigh in on what was possible.
