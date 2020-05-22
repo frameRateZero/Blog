@@ -30,7 +30,7 @@ LeafCutter is a demonstration of the joy that can be had with polygon clipping. 
 
 ![Image](https://github.com/frameRateZero/Blog/blob/media/leafCutterJan2020.jpg?raw=true){:height="45%" width="45%"}
 
-[HOME](https://frameratezero.github.io/frameRateZero/)    [<PREV](https://frameratezero.github.io/frameRateZero/002_PlayingWithBlocks)    [NEXT>](https://frameratezero.github.io/frameRateZero/003_SchotterPlotter1)
+[HOME](https://frameratezero.github.io/frameRateZero/)    [<PREV](https://frameratezero.github.io/frameRateZero/001_Reproducing_Schotter)    [NEXT>](https://frameratezero.github.io/frameRateZero/003_SchotterPlotter1)
 
 ## Footnotes
 <a name="myfootnote1">1</a>: Text describing the Schotter code is here [LINK](http://www.medienkunstnetz.de/works/schotter/)
