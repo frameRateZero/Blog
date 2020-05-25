@@ -13,7 +13,7 @@ Motivations:
 * [Reproducing Schotter as the Obligatory "Hello, World!" (May 2020)](https://frameratezero.github.io/frameRateZero/001_Reproducing_Schotter)
 * [Playing with Blocks, Zine vol 1. Jan, 2020 (May 2020)](https://frameratezero.github.io/frameRateZero/002_PlayingWithBlocks)
 * [Schotter Reducts -- Pen plotting, part 1 (June 2020)](https://frameratezero.github.io/frameRateZero/003_SchotterPlotter1)
-* [Schotter Reducts -- Pen plotting, part 2 (June 2020)]()
+* [Schotter Reducts -- Pen plotting, part 2 (June 2020)](https://frameratezero.github.io/frameRateZero/003_SchotterPlotter2)
 
 
 
